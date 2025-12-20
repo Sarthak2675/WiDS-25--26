@@ -1,4 +1,4 @@
-# WiDS-25--26
+# Bridging Language and Personalization
 This repository contains all the resources for WiDS'25-'26.
 
 Below guide details how to set up an environment on Windows using the **Anaconda Prompt**.
